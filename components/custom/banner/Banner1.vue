@@ -17,7 +17,7 @@
                     large
                     rounded
                     class="btn-custom-md"
-                    @click="$vuetify.goTo(3000)"
+                    @click="$vuetify.goTo(5000)"
                     depressed
                     color="#8f0fa1"
                     elevation="0"

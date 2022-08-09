@@ -21,7 +21,7 @@
                     Cuentas con seguidores reales!
                   </h3>
                   <p>
-                    Una de las prioridades de Follouco ha sido establecer una fórmula estable para conseguir seguidores reales. Actualmente no sirve de nada tener cuentas llenas de bots debido a las políticas de Instagram, es por ello que nuestro servicio tiene como base la <span class="font-weight-bold"> garantía </span> de que tus seguidores sean 100% reales.
+                    NO USAMOS BOTS, son ilegales, y reducen el alcance de tu cuenta. Nuestro servicio tiene como base la <span class="font-weight-bold"> garantía </span> de que tus seguidores sean 100% reales.
                   </p>
                   <v-btn
                     color="error"

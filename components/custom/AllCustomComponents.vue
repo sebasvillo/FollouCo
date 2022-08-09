@@ -16,6 +16,9 @@
           <Pricing />
         </div>
         <div>
+          <Portfolio />
+        </div>
+        <div>
           <Banner2 />
         </div>
       </v-parallax>
@@ -26,7 +29,6 @@
     <Feature2 />
 
     <PortfolioText />
-    <Portfolio />
     <PricingText />
 
     <TeamText />
@@ -86,11 +88,11 @@ export default {
   computed : {
     imageHeight () {
         switch (this.$vuetify.breakpoint.name) {
-          case 'xs': return ('4480') ; 
-          case 'sm': return ('4000') ; 
-          case 'md': return ('3550') ; 
-          case 'lg': return ('2730') ; 
-          case 'xl': return ('2730') ;
+          case 'xs': return ('5680') ; 
+          case 'sm': return ('5500') ; 
+          case 'md': return ('3850') ; 
+          case 'lg': return ('3230') ; 
+          case 'xl': return ('3230') ;
         }
     },
   }
